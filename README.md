@@ -5,7 +5,8 @@ View coding for data analysis [here](https://github.com/kehull/basketball_challe
 As a milennial born in the suburbs of the great city of Chicago, some of my earliest memories involve sitting in the living room with my family while my father and brother yelled at the 90's Bulls games on TV. More memorably- for me, anyway- was the release of the generation-defining film, Space Jam, smack-dab in the middle of my childhood. I didn't then and I don't presently know anything about basketball, but I did know one thing to be true- Michael Jordan, the man in the #23 jersey, was and would forevermore be the king of basketball. Could I tell you how or why? Absolutely not. Some things are simply true whether you understand them or not.
 
 ![family](https://github.com/kehull/basketball_challenge/blob/main/images/family.jpg?raw=true)
-Pictured: my siblings and I on a family pilgrimage to honor Mr. Jordan. We also visited our dad's family. It was a multi-tasking trip.
+
+_Pictured: my siblings and I on a family pilgrimage to honor Mr. Jordan. We also visited our dad's family. It was a multi-tasking trip._
 
 Absolute truth, however, is not included in the dataset for this challenge. At least, not the absolute truth passed down to me by my father. The truth in this challenge is the pure numbers accumulated over the careers of Michael Jordan, Kobe Bryant, and Lebron James. Would it be possible for me, an admittedly highly-biased observer, to fairly analyze the data and determine which of these men is the greatest player of all time?
 
