@@ -30,6 +30,6 @@ I did some more Googling, and with a bit of an assist from [SmartAsset.com's inf
 
 Even with salaries adjusted for inflation, based on my initial thesis of cost effectiveness, Michael Jordan still reigns supreme.
 
-![Jordan gif](https://media4.giphy.com/media/l46CqLVMWzaJUFPLW/giphy.gif)
+![Jordan gif](https://media1.giphy.com/media/3o6ZsVvy6hTTR98MGA/giphy.gif)
 
-Thank you for your time.
+Welcome to the space jam, indeed..
