@@ -16,19 +16,19 @@ Note: my take on this study was partly inspired by [this study on tbe best-value
 
 First, I used the salary, points per game, and minutes played per game calculations to determine the average cost per minute and cost per point per player over the course of their career.
 
-[]
+![](https://github.com/kehull/basketball_challenge/blob/main/images/cost_per_minute.png?raw=true)
 
-[]
+![](https://github.com/kehull/basketball_challenge/blob/main/images/raw_plot.jpg?raw=true)
 
 While the numbers are indeed fascinating, I was struck by the great disparity between the clear winner (Michael Jordan, earning less than 50% per point and per minute of gameplay than either James or Bryant) and his competition. While charting the data in matplotlib, the realization hit me- the three careers in question span from 1988 to 2017 within the dataset. Inflation exists. Could it be that Michael Jordan was not the clear winner?
 
 I did some more Googling, and with a bit of an assist from [SmartAsset.com's inflation calculator](https://smartasset.com/investing/inflation-calculator) (admittedly, not a perfect metric, but it would have to do), I was able to write a for-loop that adjusted each player's salary to 2017 dollars.
 
-[]
+![](https://github.com/kehull/basketball_challenge/blob/main/images/adj_cost_per_minute.png?raw=true)
 
-[]
+![](https://github.com/kehull/basketball_challenge/blob/main/images/adj_plot.png?raw=true)
 
-Even with salaries adjusted for inflation, Michael Jordan still reigns supreme.
+Even with salaries adjusted for inflation, based on my initial thesis of cost effectiveness, Michael Jordan still reigns supreme.
 
 ![Jordan gif](https://media4.giphy.com/media/l46CqLVMWzaJUFPLW/giphy.gif)
 
