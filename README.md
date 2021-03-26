@@ -30,6 +30,6 @@ I did some more Googling, and with a bit of an assist from [SmartAsset.com's inf
 
 Even with salaries adjusted for inflation, Michael Jordan still reigns supreme.
 
-[Jordan gif](https://media4.giphy.com/media/l46CqLVMWzaJUFPLW/giphy.gif)
+![Jordan gif](https://media4.giphy.com/media/l46CqLVMWzaJUFPLW/giphy.gif)
 
 Thank you for your time.
