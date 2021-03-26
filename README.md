@@ -8,7 +8,7 @@ Absolute truth, however, is not included in the dataset for this challenge. At l
 
 Before we can answer this question, we must ask ourselves- what makes a player great, anyway? As a sports outsider, this led to a series of other questions for me- question such as "Why is there a 'Field Goal' category here? Aren't field goals a soccer thing?' As you can see in my code, my first step was to furiously Google all of the abbreviations in the dataset and rename the columns to something I could understand. Sort of. At least they're in English now.
 
-Under normal circumstances, I'd dive into research on what all the stats mean exactly, but between work and school I've had exactly five hours of free time over the last month to complete this challenge, so I made the decision to limit my research to topics I could understand- things like points and salaries.
+Under normal circumstances, I'd dive into research on what all the stats mean exactly, but between work and school I've had exactly three hours of free time over the last month to complete this challenge, so I made the decision to limit my research to topics I already understand- things like points and salaries.
 
 This led me to my thesis- the NBA is a corporation. Corporations need to earn money, and they need to save on costs. Therefore, it stands to reason that the player with the highest bang-to-buck ratio could very well be considered the greatest player by the NBA.
 
